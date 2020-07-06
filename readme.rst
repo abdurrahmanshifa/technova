@@ -13,7 +13,6 @@ NOTE
 *******************
 
 username : abdurrahmanshifa@gmail.com
-<br>
 password : 1
 role : administrator
 
